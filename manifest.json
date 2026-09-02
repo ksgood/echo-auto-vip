@@ -1,0 +1,16 @@
+{
+  "id": "echo-auto-vip",
+  "name": "自动领会员",
+  "version": "1.3.1",
+  "description": "打开 EchoMusic 时自动领取酷狗概念版每日畅听会员，支持连续领取后续日期；每日自动升级概念会员；自动完成每日 8 次看广告领时长。全部功能在插件内完成，无需修改宿主文件。",
+  "author": "YTDB0",
+  "icon": "icon.svg",
+  "main": "index.js",
+  "capabilities": {
+    "kugouApi": true,
+    "unrestrictedNetwork": true
+  },
+  "requires": {
+    "echoMusicVersion": ">=2.3.0"
+  }
+}
