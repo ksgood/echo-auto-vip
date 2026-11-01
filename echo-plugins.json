@@ -1,0 +1,18 @@
+{
+  "name": "EchoMusic 酷狗奖励插件源",
+  "homepage": "https://github.com/ksgood/echo-auto-vip",
+  "plugins": [
+    {
+      "id": "echomusic",
+      "name": "EchoMusic 酷狗奖励",
+      "description": "",
+      "author": "OpenAI",
+      "path": "",
+      "repo": "https://github.com/ksgood/echo-auto-vip",
+      "homepage": "https://github.com/ksgood/echo-auto-vip",
+      "tags": [
+        "每日奖励",
+      ]
+    }
+  ]
+}
