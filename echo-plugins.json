@@ -3,8 +3,8 @@
   "homepage": "https://github.com/ksgood/echo-auto-vip",
   "plugins": [
     {
-      "id": "vip22",
-      "name": "vip22",
+      "id": "echo-auto-vip",
+      "name": "自动领会员",
       "description": "",
       "author": "vip22",
       "path": "",
