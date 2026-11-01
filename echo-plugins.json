@@ -1,9 +1,9 @@
 {
-  "name": "EchoMusic 酷狗奖励插件源",
+  "name": "vip22",
   "homepage": "https://github.com/ksgood/echo-auto-vip",
   "plugins": [
     {
-      "id": "echomusic",
+      "id": "vip22",
       "name": "EchoMusic 酷狗奖励",
       "description": "",
       "author": "OpenAI",
